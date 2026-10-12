@@ -1,2 +1,2 @@
 # Git-Hub-Practice
-for learning
+Learning Git and Git-GitHub
